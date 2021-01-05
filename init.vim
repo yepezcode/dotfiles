@@ -2,7 +2,7 @@
 source $HOME/.config/nvim/plugins.vim
 source $HOME/.config/nvim/plugins-config.vim
 source $HOME/.config/nvim/maps.vim
-
+source $HOME/.config/nvim/coc.vim
 "" load prettier config
 packloadall
 
@@ -25,6 +25,5 @@ set cindent
 set tabstop=2 
 set shiftwidth=2
 set expandtab
-set hidden
 set updatetime=300
 

@@ -20,4 +20,4 @@ map  n <Plug>(easymotion-next)
 map  N <Plug>(easymotion-prev)
 
 "" Prettier
-nmap <Leader>p <Plug>(Prettier)
+nmap <Leader>ff <Plug>(Prettier)

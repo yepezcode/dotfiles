@@ -29,3 +29,8 @@ let g:closetag_regions = {
     \ }
 let g:closetag_shortcut = '>'
 let g:closetag_close_shortcut = '<leader>>'
+
+
+"" Rainbow pairs
+let g:rainbow_active = 1
+

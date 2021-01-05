@@ -19,4 +19,10 @@ Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 "" Auto close tag
 Plug 'alvan/vim-closetag'
 
+"" COC 
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+"" rainbow pairs 
+Plug 'luochen1990/rainbow'
+
 call plug#end()
