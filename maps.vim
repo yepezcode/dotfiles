@@ -1,6 +1,6 @@
 "" leader
 let mapleader=" "
-
+inoremap <space><space>
 
 ""Themes IDE
 colorscheme gruvbox
@@ -21,3 +21,5 @@ map  N <Plug>(easymotion-prev)
 
 "" Prettier
 nmap <Leader>ff <Plug>(Prettier)
+
+
