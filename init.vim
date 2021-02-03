@@ -19,16 +19,14 @@ syntax enable
 set ruler
 set encoding=utf-8
 set shortmess+=F
-set sw=4
 set relativenumber
 set laststatus=2
-set smarttab
 set cindent
-set tabstop=8 
-set expandtab
 set updatetime=300
-
-
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
 
 """ Tags color in jsx
 hi Tag        ctermfg=04

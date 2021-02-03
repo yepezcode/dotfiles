@@ -21,5 +21,5 @@ map  N <Plug>(easymotion-prev)
 
 "" Prettier
 nmap <Leader>ff <Plug>(Prettier)
-
+nmap <Leader>fp :PrettierFragment<CR>
 
